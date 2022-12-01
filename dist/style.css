@@ -1,0 +1,30 @@
+html {
+    font-size: 15px;
+    color: #c7962d;
+}
+
+body {
+    width: 99vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Dosis', sans-serif;
+    background-color: rgb(30, 31, 32);
+}
+
+header {
+    text-align: center;
+}
+
+header > h1 {
+    font-size: 5rem;
+    text-decoration: underline;
+}
+
+header > p {
+    font-size: 2.5rem;
+}
+
+
